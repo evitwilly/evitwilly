@@ -8,7 +8,7 @@
       twitter = "@Dmitry18806633"
       site = "www.freeit256.ru"
       
-      goals = listOf("Share knowledge", "Make something great and usefull")
+      goals = listOf("Share knowledge", "Make something great and useful")
       interests = listOf("My Little Pony", "books", "nature walking", "sport")  
     }
     
