@@ -4,17 +4,17 @@
     age = 20
     
     about {
-      telegram = "@little_twilly"
+      telegram = "@good_twilly"
       twitter = "@Dmitry18806633"
       site = "www.freeit256.ru"
       
       goals = listOf("Share knowledge", "Make something great and useful")
-      interests = listOf("My Little Pony", "books", "nature walking", "sport")  
+      interests = listOf("ponies", "books", "nature walking", "skates on ice', "communication with people")  
     }
     
     skills {
       languages = listOf("Kotlin, "Java", "Python", "Dart")
-      technologies = listOf("Android Native", "Flutter", "Desktop")
+      technologies = listOf("Android", "Flutter", "Desktop")
     }
     
   }
