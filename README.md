@@ -5,9 +5,7 @@
     age = 20
     
     contacts {
-      telegram = "@good_twilly"
-      twitter = "@Dmitry18806633"
-      site = "www.freeit256.ru"  
+       telegram = @evitwilly
     }
     
     about {
@@ -17,3 +15,8 @@
     }
   }
 </code></pre>
+
+![evitwilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=evitwilly&count_private=true&show_icons=true&theme=dark)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evitwilly&theme=dark&exclude_repo=freeit.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
